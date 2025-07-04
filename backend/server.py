@@ -1,6 +1,9 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from app.database import connect_to_mongo, close_mongo_connection
 import os
 from dotenv import load_dotenv
