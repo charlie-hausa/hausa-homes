@@ -1,0 +1,7 @@
+Model_ID,Parent_Project_ID,Hausa_Model_Name,Module_Width,Module_Height,Module_Length,Area_per_Module_M2,Front_Modules,Stories,External_Area_Long_Side_M2,External_Area_Short_Side_M2,Total_Area_M2,Bedrooms,Bathrooms,Kitchen_Linear_Meters,Windows_Count,Exterior_Doors_Count,Interior_Doors_Count,Sliding_Doors_Count,Flooring_M2,MEP_Percentage,Appliances_Spec,Extras_Spec,Cladding_KB_Spec,Notes
+HAU-001,,U2 X2,2.44,2.9,12.2,29.768,2,2,141.52,56.608,119.072,2,2.5,10,5,2,9,0,119,20.00%,,,,
+HAU-002,,U2 X3,2.44,2.9,12.2,29.768,2,3,212.28,84.912,178.608,3,3.5,13.2,5,2,12,2,179,20.00%,,,,
+HAU-003,,U2 X3 G,2.44,2.9,12.2,29.768,2,3,212.28,84.912,178.608,3,3.5,13.2,5,2,12,1,179,20.00%,,,,
+HAU-004,,U3 X2,2.44,2.9,12.2,29.768,3,2,141.52,84.912,178.608,2,3,8.3,5,2,7,2,179,20.00%,,,,
+HAU-005,,U3 X3,2.44,2.9,12.2,29.768,3,3,212.28,127.368,267.912,4,4,15.6,10,2,13,2,268,20.00%,,,,
+HAU-006,,U3 X3 G,2.44,2.9,12.2,29.768,3,3,212.28,127.368,267.912,3,3,15.6,10,2,11,1,268,20.00%,,,,

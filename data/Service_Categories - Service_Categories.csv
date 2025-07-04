@@ -1,0 +1,22 @@
+Service_Category_ID,Service_Category_Name_EN,Service_Category_Name_SP,Service_Category_Name_PT
+SITE_PREPARATION,Site Preparation,Preparación del Sitio,Preparação do Terreno
+FOUNDATION_WORK,Foundation Work,Obra de Cimentación,Trabalho de Fundação
+STRUCTURAL_WORK,Structural Work,Obra Estructural,Trabalho Estrutural
+MASONRY,Masonry,Albañilería,Alvenaria
+CARPENTRY,Carpentry,Carpintería,Carpintaria
+ROOFING,Roofing,Techos,Telhados
+EXTERIOR_FINISHING,Exterior Finishing,Acabado Exterior,Acabamento Externo
+INTERIOR_FINISHING,Interior Finishing,Acabado Interior,Acabamento Interno
+FLOORING,Flooring,Pisos,Pisos
+ELECTRICAL,Electrical,Instalación Eléctrica,Instalações Elétricas
+PLUMBING,Plumbing,Plomería,Encanamento
+HVAC,Hvac,Hvac,Hvac
+MEP_SYSTEMS,Mep Systems,Mep Systems,Mep Systems
+WINDOWS_AND_DOORS,Windows And Doors,Ventanas y Puertas,Janelas e Portas
+INSULATION,Insulation,Aislamiento,Isolamento
+LANDSCAPING,Landscaping,Paisajismo,Paisagismo
+PAVING,Paving,Pavimentación,Pavimentação
+UTILITIES,Utilities,Servicios Públicos,Utilidades
+FINISHES_AND_FITTINGS,Finishes And Fittings,Acabados y Accesorios,Acabamentos e Acessórios
+PROJECT_MANAGEMENT,Project Management,Gestión de Proyectos,Gestão de Projetos
+GENERAL_SERVICES,General Services,Servicios Generales,Serviços Gerais

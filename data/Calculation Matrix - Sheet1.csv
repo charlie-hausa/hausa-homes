@@ -1,0 +1,295 @@
+Category,Subcategory,Quality,,Notes,Notes,Height (Z Size),Length (A),Width (B),Formula for Quote,,,,If SIPs are OSB
+CHASSIS,CHASSIS_FLOOR,STANDARD_FIXED,,,,460,12200,2441,Number of Items x Item Cost,Formula for House Area: A x B x Number of Floor Chassis,"Underlayment: Floor Area × 1.08 (8% waste)
+
+Transition Strips: Number of Room Connections × 1.2m average length
+
+Quarter Round: Interior Wall Perimeter × 0.8 (80% coverage)",,"Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+CHASSIS,CHASSIS_ROOF,STANDARD_FIXED,,,,460,12200,2441,Number of Items x Item Cost,,"Roofing Components
+
+Underlayment: Roof Area × 1.15 (15% overlap)
+
+Gutters: Roof Perimeter × 0.8 (80% of perimeter typically has gutters)
+
+Downspouts: Number of Corners ÷ 2 + 1 downspouts
+
+Ridge Vents: Roof Ridge Length × 1.0",,"Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+CHASSIS,ALL OTHER,STANDARD_FIXED,,,,460,12200,2441,Number of Items x Item Cost,,,,"Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,FLOOR_PANEL,STANDARD_FIXED,,,,435,1075,110,Number of Items x Item Cost,ANOTHER Formula for House Area: A x B x Number of Floor Panels,,,
+SIP_PANELS,SLANTED_ROOF_PANEL,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,435,1075,156,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,DOOR_PANEL_UNIT,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,2877,1221,156,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,PORTAL_PANEL,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,2883,1220,156,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,SLANTED_ROOF_PANEL,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,435,1128,155,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,WALL_PANEL,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,2890,1220,155,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,WINDOW_PANEL_UNIT,STANDARD_FIXED,,Any panel with Width  more thatn 150mm is exterior,It can be used for formula of exterior perimeter,2884,1220,156,Number of Items x Item Cost,Formula for House External Perimeter: A x B x Number of SIPs >150mm ,"Exterior Baseboards: Exterior Wall Interior Perimeter - Door Opening Widths / 2
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","""SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)""","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,DOOR_PANEL_UNIT,STANDARD_FIXED,First,Any panel with Width between 110 and 150mm is interior,"It can be used for formula of interior walls, to calculate boards, etc.",2616,1270,110,Number of Items x Item Cost,Formula for House Internal Wall permiter or length: A x B x Number of SIPs >110mm ,"Interior Baseboards: Interior Wall Perimeter - Door Opening Widths
+
+Baseboard Fasteners: Baseboard Length × 3 fasteners per linear meter","""SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)""","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,WALL_PANEL,STANDARD_FIXED,First,Any panel with Width between 110 and 150mm is interior,"It can be used for formula of interior walls, to calculate boards, etc.",2616,610,110,Number of Items x Item Cost,Formula for House Internal Wall permiter or length: A x B x Number of SIPs >110mm ,"Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)","""SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)""","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+SIP_PANELS,WALL_PANEL,STANDARD_FIXED,First,Any panel with Width between 110 and 150mm is interior,"It can be used for formula of interior walls, to calculate boards, etc.",2616,610,110,,,"Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)","""SIP Tracks and Fasteners
+
+SIP Track (Linear Meters): Total SIP Panel Perimeter × 1.1 (10% waste factor)
+
+SIP Fasteners: (SIP Panel Height × SIP Panel Length) ÷ 0.3 fasteners per panel
+
+Polyurethane Adhesive: SIP Panel Length × 0.025kg per linear meter of joint
+
+SIP Tape/Sealant: Total SIP Panel Perimeter × 1.05 (5% overlap)""","Interior Drywall (for SIP OSB coverage)
+
+Drywall Sheets: Interior Wall Area ÷ 2.97 sq.m (standard 4×8 sheet)
+
+Joint Compound: Drywall Area × 0.4kg per sq.m
+
+Drywall Screws: Drywall Area × 35 screws per sq.m
+
+Tape: Interior Wall Perimeter × 1.2 (20% waste for corners)"
+DOORS,POCKET_DOOR,BASIC,First,,,900×2.100,0,,Number of Items x Item Cost,Formula for Door Trim: (Door Perimeter × Number of Doors) × 1.1,,,
+WINDOWS,WINDOW_ALUMINUM,BASIC,Ground,,,2.057×1.341,1698,,Number of Items x Item Cost,Formula for Window Trim: (Window Perimeter × Number of Windows) × 1.1,,,
+BATHROOM_FIXTURES,BASIN,BASIC,Ground,,,140,600,,Number of Items x Item Cost,,,,
+KITCHEN_FIXTURES,CABINET_COOKTOP_OVEN,BASIC,Ground,,,900,758,,Number of Items x Item Cost,,,,
+KITCHEN_FIXTURES,DISHWASHER,BASIC,Ground,,,900,600,,Number of Items x Item Cost,,,,
+KITCHEN_FIXTURES,COUNTERTOP,BASIC,First,,,25,1111,600,Number of Items x Item Cost x A X B,"Countertops
+
+Countertop Area: Linear Meters × Counter Depth × 1.1 (10% waste)
+
+Backsplash: Linear Meters × 0.6m height × 1.15 (15% waste)
+
+Edge Banding: Linear Meters × 1.05",,,
+KITCHEN_FIXTURES,REFRIGERATOR,BASIC,Ground,,,1905,911,,Number of Items x Item Cost,,,,
+KITCHEN_FIXTURES,SINK,BASIC,Ground,,,220,600,,Number of Items x Item Cost,,,,
+KITCHEN_FIXTURES,DISHWASHER,BASIC,Ground,,,900,600,,Number of Items x Item Cost,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+IF there are no BOMs for Plumbing Systems:,,,,,,,,,,"4.1 Plumbing Systems
+Water Supply Lines
+
+Hot Water Piping: Floor Area × 0.4 linear meters per sq.m
+
+Cold Water Piping: Floor Area × 0.5 linear meters per sq.m
+
+Main Supply Lines: Building Length × 1.5 (factor for routing)
+
+Drainage Systems
+
+Drainage Pipes: Number of Fixtures × 3m average per fixture
+
+Vent Piping: Number of Fixtures × 2.5m average per fixture
+
+Sewer Main: Building Length + Building Width
+
+Fixture-Based Calculations
+
+Per Toilet/WC: 4m hot + 2m cold + 3m drain + 2.5m vent
+
+Per Sink: 3m hot + 3m cold + 2m drain + 2m vent
+
+Per Shower: 5m hot + 2m cold + 2.5m drain + 2.5m vent",,,
+IF there are no BOMs for HVAC Systems:,,,,,,,,,,"4.2 HVAC Systems
+Ductwork Calculations
+
+Supply Ducts: Floor Area × 0.3 linear meters per sq.m
+
+Return Ducts: Floor Area × 0.15 linear meters per sq.m
+
+Insulation for Ducts: Total Duct Length × Duct Perimeter × 1.1
+
+Equipment Sizing
+
+HVAC Unit Capacity: Floor Area × 40 BTU/sq.m (base calculation)
+
+Refrigerant Lines: Distance to Outdoor Unit × 2 lines",,,
+IF there are no BOMs for Electrical Systems:,,,,,,,,,,"4.3 Electrical Systems
+Wiring and Conduit
+
+General Lighting: Floor Area × 2.5m wire per sq.m
+
+Outlet Circuits: Floor Area × 3.0m wire per sq.m
+
+Dedicated Circuits: Number of Appliances × 15m average per circuit
+
+Electrical Components
+
+Outlets: Floor Area ÷ 9 sq.m (one outlet per 9 sq.m minimum)
+
+Light Switches: Number of Rooms × 1.5 switches per room
+
+Electrical Boxes: (Number of Outlets + Number of Switches) × 1.1",,,

@@ -1,0 +1,82 @@
+Service_SubCategory_ID,Parent_Service_Category_Ref,Service_SubCategory_Name_EN,Service_SubCategory_Name_SP,Service_SubCategory_Name_PT
+CLEARING,SITE_PREPARATION,Clearing,Despeje,Limpeza
+EXCAVATION,SITE_PREPARATION,Excavation,Excavación,Escavação
+DEMOLITION,SITE_PREPARATION,Demolition,Demolición,Demolição
+PILE_FOUNDATION,FOUNDATION_WORK,Pile Foundation,Cimentación con Pilotes,Fundação com Estacas
+RAFT_FOUNDATION,FOUNDATION_WORK,Raft Foundation,Cimentación de Losas,Fundação em Radier
+STRIP_FOUNDATION,FOUNDATION_WORK,Strip Foundation,Cimentación Corrida,Fundação em Sapata Corrida
+BASEMENT_CONSTRUCTION,FOUNDATION_WORK,Basement Construction,Construcción de Sótanos,Construção de Porão
+CONCRETE_FRAME,STRUCTURAL_WORK,Concrete Frame,Estructura de Hormigón,Estrutura de Concreto
+STEEL_FRAME,STRUCTURAL_WORK,Steel Frame,Estructura de Acero,Estrutura de Aço
+WOOD_FRAME,STRUCTURAL_WORK,Wood Frame,Estructura de Madera,Estrutura de Madeira
+PRECAST_CONCRETE,STRUCTURAL_WORK,Precast Concrete,Hormigón Prefabricado,Concreto Pré-Moldado
+BRICKWORK,MASONRY,Brickwork,Mampostería de Ladrillo,Alvenaria de Tijolo
+BLOCKWORK,MASONRY,Blockwork,Mampostería de Bloque,Alvenaria de Bloco
+STONEWORK,MASONRY,Stonework,Mampostería de Piedra,Alvenaria de Pedra
+FRAMING,CARPENTRY,Framing,Estructuración,Enquadramento
+ROOF_FRAMING,CARPENTRY,Roof Framing,Estructura del Techo,Estrutura de Telhado
+FINISH_CARPENTRY,CARPENTRY,Finish Carpentry,Carpintería de Acabado,Marcenaria de Acabamento
+FORMWORK,CARPENTRY,Formwork,Encofrado,Fôrmas
+SHINGLE_ROOF,ROOFING,Shingle Roof,Techo de Tejas,Telhado de Telhas
+TILE_ROOF,ROOFING,Tile Roof,Techo de Baldosas,Telhado de Ladrilhos
+METAL_ROOF,ROOFING,Metal Roof,Techo Metálico,Telhado Metálico
+FLAT_ROOF,ROOFING,Flat Roof,Techo Plano,Telhado Plano
+WATERPROOFING,ROOFING,Waterproofing,Impermeabilización,Impermeabilização
+STUCCO,EXTERIOR_FINISHING,Stucco,Estuco,Estuque
+CLADDING,EXTERIOR_FINISHING,Cladding,Revestimiento,Revestimento
+SIDING,EXTERIOR_FINISHING,Siding,Revestimiento Lateral,Revestimento Lateral
+PAINTING,EXTERIOR_FINISHING,Painting,Pintura,Pintura
+DRYWALL,INTERIOR_FINISHING,Drywall,Paneles de Yeso,Gesso Acartonado
+PLASTERING,INTERIOR_FINISHING,Plastering,Enlucido,Reboco
+TRIM_INSTALLATION,INTERIOR_FINISHING,Trim Installation,Instalación de Molduras,Instalação de Acabamentos
+TILE_INSTALLATION,FLOORING,Tile Installation,Instalación de Baldosas,Instalação de Ladrilhos
+WOOD_FLOORING,FLOORING,Wood Flooring,Piso de Madera,Assoalho de Madeira
+LAMINATE_FLOORING,FLOORING,Laminate Flooring,Piso Laminado,Piso Laminado
+CARPET_INSTALLATION,FLOORING,Carpet Installation,Instalación de Alfombra,Instalação de Carpete
+CONCRETE_POLISHING,FLOORING,Concrete Polishing,Pulido de Hormigón,Polimento de Concreto
+WIRING,ELECTRICAL,Wiring,Cableado,Fiação
+OUTLETS_AND_SWITCHES,ELECTRICAL,Outlets And Switches,Enchufes e Interruptores,Tomadas e Interruptores
+PANEL_INSTALLATION,ELECTRICAL,Panel Installation,Instalación de Paneles,Instalação de Painéis
+SMART_HOME_SYSTEMS,ELECTRICAL,Smart Home Systems,Sistemas de Hogar Inteligente,Sistemas de Casa Inteligente
+WATER_SUPPLY,PLUMBING,Water Supply,Suministro de Agua,Abastecimento de Água
+DRAINAGE,PLUMBING,Drainage,Drenaje,Drenagem
+FIXTURE_INSTALLATION,PLUMBING,Fixture Installation,Instalación de Accesorios,Instalação de Equipamentos
+GAS_LINE_INSTALLATION,PLUMBING,Gas Line Installation,Instalación de Gas,Instalação de Gás
+DUCTWORK,HVAC,Ductwork,Conductos,Dutos
+AIR_CONDITIONING,HVAC,Air Conditioning,Aire Acondicionado,Ar Condicionado
+HEATING_SYSTEMS,HVAC,Heating Systems,Sistemas de Calefacción,Sistemas de Aquecimento
+VENTILATION,HVAC,Ventilation,Ventilación,Ventilação
+FIRE_ALARM_SYSTEMS,MEP_SYSTEMS,Fire Alarm Systems,Sistemas de Alarma Contra Incendios,Sistemas de Alarme de Incêndio
+SECURITY_SYSTEMS,MEP_SYSTEMS,Security Systems,Sistemas de Seguridad,Sistemas de Segurança
+AUTOMATION_CONTROLS,MEP_SYSTEMS,Automation Controls,Controles de Automatización,Controles de Automação
+WINDOW_INSTALLATION,WINDOWS_AND_DOORS,Window Installation,Instalación de Ventanas,Instalação de Janelas
+DOOR_INSTALLATION,WINDOWS_AND_DOORS,Door Installation,Instalación de Puertas,Instalação de Portas
+SKYLIGHTS,WINDOWS_AND_DOORS,Skylights,Tragaluces,Claraboias
+WEATHER_SEALING,WINDOWS_AND_DOORS,Weather Sealing,Sellado Climático,Vedação Contra Intempéries
+SPRAY_FOAM,INSULATION,Spray Foam,Espuma en Spray,Espuma Expansiva
+BATT_INSULATION,INSULATION,Batt Insulation,Aislamiento con Mantas,Isolamento com Mantas
+RIGID_BOARD,INSULATION,Rigid Board,Panel Rígido,Painel Rígido
+BLOWN_IN,INSULATION,Blown In,Aislamiento Soplado,Isolamento Soprado
+GRADING,LANDSCAPING,Grading,Nivelación,Nivelamento
+IRRIGATION,LANDSCAPING,Irrigation,Riego,Irrigação
+PLANTING,LANDSCAPING,Planting,Plantación,Plantio
+HARDSCAPING,LANDSCAPING,Hardscaping,Obras de Paisaje,Pavimentação Paisagística
+CONCRETE_PAVING,PAVING,Concrete Paving,Pavimentación de Hormigón,Pavimentação em Concreto
+ASPHALT_PAVING,PAVING,Asphalt Paving,Pavimentación Asfáltica,Pavimentação Asfáltica
+STONE_PAVING,PAVING,Stone Paving,Pavimentación de Piedra,Pavimentação com Pedra
+ELECTRIC_SERVICE_CONNECTION,UTILITIES,Electric Service Connection,Conexión Eléctrica,Conexão Elétrica
+WATER_CONNECTION,UTILITIES,Water Connection,Conexión de Agua,Conexão de Água
+SEWER_CONNECTION,UTILITIES,Sewer Connection,Conexión de Alcantarillado,Conexão de Esgoto
+GAS_CONNECTION,UTILITIES,Gas Connection,Conexión de Gas,Conexão de Gás
+BATHROOM_FITTINGS,FINISHES_AND_FITTINGS,Bathroom Fittings,Accesorios de Baño,Acessórios de Banheiro
+KITCHEN_FITTINGS,FINISHES_AND_FITTINGS,Kitchen Fittings,Accesorios de Cocina,Acessórios de Cozinha
+INTERIOR_DOORS,FINISHES_AND_FITTINGS,Interior Doors,Puertas Interiores,Portas Internas
+HARDWARE,FINISHES_AND_FITTINGS,Hardware,Herrajes,Ferragens
+SCHEDULING,PROJECT_MANAGEMENT,Scheduling,Programación,Agendamento
+COST_ESTIMATION,PROJECT_MANAGEMENT,Cost Estimation,Estimación de Costos,Estimativa de Custos
+SITE_SUPERVISION,PROJECT_MANAGEMENT,Site Supervision,Supervisión de Obra,Supervisão de Obra
+SAFETY_MANAGEMENT,PROJECT_MANAGEMENT,Safety Management,Gestión de Seguridad,Gestão de Segurança
+MATERIAL_HANDLING,GENERAL_SERVICES,Material Handling,Manejo de Materiales,Manuseio de Materiais
+SITE_CLEANUP,GENERAL_SERVICES,Site Cleanup,Limpieza del Sitio,Limpeza do Local
+TRANSPORTATION,GENERAL_SERVICES,Transportation,Transporte,Transporte
+EQUIPMENT_RENTAL,GENERAL_SERVICES,Equipment Rental,Alquiler de Equipos,Aluguel de Equipamentos
